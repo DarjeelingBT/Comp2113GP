@@ -51,7 +51,14 @@ This game encourages players to play in multiple rounds, In other words, you can
 
 features:
 1.Randomly select the events encountered by players in the main process of the game, and the probability of different events will change according to the preseeting  and players' play.
-2.use array to store integrity, connections, monthly profit and the company's total assets.
+
+2.use array to store integrity, connections, monthly profit and the company's total assets, and use stack to store the events that to be triggered.
+
+3.We will dynamically allocate memory for events and the four main numerical value.
+
+4 use file input output to build a save/load system and  players can get information and type in the comments in the interactive system.
+
+5.main file, result file, event file,company file, presetting file.....
 
 
 
