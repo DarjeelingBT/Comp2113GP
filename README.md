@@ -49,4 +49,9 @@ Reincarnation of multi round games：
 
 This game encourages players to play in multiple rounds, In other words, you can't win without playing multiple rounds. In a round of game, if the total assets are negative, it will be game over and force the end of the round of game, but you will get a new talent, such as "communication master (increase your initial connection value)". These new talents can be used in your next round of game, making you more likely to win the game.
 
+features:
+1.Randomly select the events encountered by players in the main process of the game, and the probability of different events will change according to the preseeting  and players' play.
+2.use array to store integrity, connections, monthly profit and the company's total assets.
+
+
 
