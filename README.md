@@ -12,7 +12,7 @@ ShenZheye(3035770903)
 
 Introduction
 
-     You are a young man who want to build a career through your own hands. You want to start a business and set up a company by yourself. As the manager and operator of the company, you need to make all kinds of decisions carefully, know how to grasp opportunities  to develop the company into a world-class multinational company.
+   You are a young man who want to build a career through your own hands. You want to start a business and set up a company by yourself. As the manager and operator of the company, you need to make all kinds of decisions carefully, know how to grasp opportunities  to develop the company into a world-class multinational company.
 
 
 Rules of the game:
