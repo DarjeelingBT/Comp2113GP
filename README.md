@@ -40,7 +40,7 @@ Monthly profit is the money the company earns every month, which may be positive
 Company's total assets is the most important value. There will be an initial asset at the beginning of the game. If the company's total assets become negative, the company will go bankrupt, and this round of the game will end immediately.
 
 
-These values are the core of the game, and you need to maintain the balance of these values. For example, choosing to exaggerate your products can improve your Monthly profit, but it will reduce your integrity; Developing new products will reduce monthly profits, but may increase your company's total assets in the future, etc.
+These values are the core of the game, and you need to maintain the balance of these values. For example, choosing to exaggerate your products can improve your Monthly profit, but it will reduce your integrity; Developing new products will reduce company's total assets now, but will increase Monthly Profit and then increase company's total assets in the future, etc.
 
 
 Reincarnation of multi round games：
