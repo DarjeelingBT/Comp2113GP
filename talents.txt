@@ -1,0 +1,48 @@
+TALENTS 1
+name
+Sociable person
+description
+Initial influence + 2
+0 2 0 0
+TALENTS 2
+name
+Communication master
+description
+Initial influence + 4
+0 4 0 0
+TALENTS 3
+name
+Your father is rich
+description
+Initial total asset +30
+0 0 0 30
+TALENTS 4
+name
+Upstart
+description
+Initial total asset +60
+0 0 0 60
+TALENTS 5
+name
+Part-time job
+description
+Initial monthly revenue +5
+0 0 5 0
+TALENTS 6
+name
+Landlord 
+description
+Initial monthly revenue +10
+0 0 10 0
+TALENTS 7
+name
+Good boy
+description
+Initial integrity +2
+2 0 0 0
+TALENTS 8
+name
+Sage
+description
+Initial integrity +4
+4 0 0 0
