@@ -30,18 +30,17 @@ In game numerical value:
 
 In a round of game, There are three important indexes, integrity, influence, monthly profit, and one ultimate index: total assets of the company.
 
-待更改
 
-Integrity is the most intuitive impression of the people on a company. If the company often has many negative events and don’t tell honestly, the people will avoid buying the company's products, which will directly lead to the decline of the company's profits.
+Integrity: whether your company is honest and whether there are exaggerated advertisements. Float, initial 5, floating range is positive 10 to 0, and a round of game will ends if Integrity falls to 0.
 
-Connections refer to your ability to make friends, the number of people you know in the industry, etc. Good connections can give you a lot of opportunities, including investment, important core employees, etc.
+Influence: whether or not your company have popularity, and your influence in the industry.Float, initial 5, floating range is positive 10 to 0, and a round of game will ends if Integrity falls to 0.
 
 Monthly profit is the money the company earns every month, which may be positive or negative.
 
 Company's total assets is the most important value. There will be an initial asset at the beginning of the game. If the company's total assets become negative, the company will go bankrupt, and this round of the game will end immediately.
 
 
-These values are the core of the game, and you need to maintain the balance of these values. For example, choosing to exaggerate your products can improve your connections, but it will reduce your integrity; Developing new products will reduce monthly profits, but may increase your company's total assets in the future, etc.
+These values are the core of the game, and you need to maintain the balance of these values. For example, choosing to exaggerate your products can improve your Monthly profit, but it will reduce your integrity; Developing new products will reduce monthly profits, but may increase your company's total assets in the future, etc.
 
 
 Reincarnation of multi round games：
