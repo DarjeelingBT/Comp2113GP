@@ -1,1 +1,286 @@
-
+EVENT 1
+DESCRIPTION
+Our company has just been established. Do you want to develop our first product?
+A
+develop
+0 1 0 -10
+B
+do not develop
+0 0 0 0 
+DayRange
+0 150
+EVENT 2
+DESCRIPTION
+Our company started business! good friends gave us "a little bit" gifts
+A
+accept
+0 0 0 20
+B
+refuse
+0 0 0 0
+DayRange
+0 150
+EVENT 3
+DESCRIPTION
+An angel investor approached us. He wanted to invest in us, but he needed to exchange some shares
+A
+accept
+0 -2 0 50
+B
+refuse
+0 3 0 0 
+DayRange
+0 150
+EVENT 4
+DESCRIPTION
+A good friend from the past has changed jobs from the last company and wants to join us，and carried some initial funds
+A
+accept
+0 1 0 20
+B
+refuse
+0 0 0 0
+DayRange
+0 150
+EVENT 5
+DESCRIPTION
+In a new season, what new products should we develop?
+A
+A brand new concept
+0 0 10 -40
+B
+Revision of an existing product
+0 0 5 -40
+DayRange
+0 600
+EVENT 6
+DESCRIPTION
+Our newly developed products are highly praised in the market, and many people rush to buy them first
+A
+Carry out price reduction promotion
+0 0 5 0
+B
+Put in a large number of advertisements and strengthen publicity
+0 0 10 -40
+DayRange
+0 600
+EVENT 7
+DESCRIPTION
+We want to purchase the raw materials of our new products. What kind of raw materials should we choose?
+A
+Inferior raw materials
+-2 0 0 -10
+B
+High quality raw materials
+1 0 0 -30
+DayRange
+0 600
+EVENT 8
+DESCRIPTION
+Squid game is very popular recently. Do we want to make a related product?
+A
+make
+0 -2 10 0
+B
+do not make
+0 2 0 0 
+DayRange
+0 600
+EVENT 9
+DESCRIPTION
+During this time, Internet enterprises in Shanghai are very developed. Should we go and have a look?
+A
+go
+0 2 0 -10
+B
+don't go
+0 0 0 0 
+DayRange
+0 600
+EVENT 10
+DESCRIPTION
+During this time, Internet enterprises in Guangzhou are very developed. Should we go to investigate?
+A
+go
+0 2 0 -10
+B
+don't go
+0 0 0 0 
+DayRange
+0 600
+EVENT 11
+DESCRIPTION
+During this period of time, the Internet enterprises in Silicon Valley are very developed. Should we go and have a look?
+A
+go
+0 4 0 -20
+B
+don't go
+0 0 0 0 
+DayRange
+0 600
+EVENT 12
+DESCRIPTION
+At present, our company wants to recruit new employees. Can we do this?
+A
+can
+0 2 -10 0
+B
+can't
+0 0 0 0
+DayRange
+0 210
+EVENT 13
+DESCRIPTION
+The company's new products have achieved some success in the market. How should we take further action?
+A
+Develop a similar low-cost product and open up the sinking market
+0 -3 10 0
+B
+Create a high-end product and occupy the high-end market
+0 1 0 -20
+DayRange
+0 600
+EVENT 14
+DESCRIPTION
+There is a gap in TV advertising recently. What kind of advertising should we put in?
+A
+Beautifully produced advertisements with a certain public welfare nature
+0 3 5 -30
+B
+Rough brainwashing advertising
+0 -2 2 -5
+DayRange
+0 600
+EVENT 15
+DESCRIPTION
+We have signed an exclusive distributor for our new products, but now suddenly a new distributor wants to distribute our products and will offer a higher price
+A
+Still select the original dealer
+1 0 0 0 
+B
+Select the new dealer
+-3 0 0 30
+DayRange
+0 600
+EVENT 16
+DESCRIPTION
+A scientist wants to apply for our company, but the salary is a little high. Can we accept it?
+A
+accept
+0 4 -15 0
+B
+refuse
+0 -1 0 0
+DayRange
+0 600
+EVENT 17
+DESCRIPTION
+We were going to register our company's trademark and name, but we found that it was registered
+A
+File a lawsuit with the person who registered our trademark
+0 2 0 -30
+B
+Change a trademark to register
+0 -2 0 0
+DayRange
+0 150
+EVENT 18
+DESCRIPTION
+Our company was hit hard by the financial crisis shortly after it opened
+A
+Downsizing to reduce expenses
+0 -2 0 -10
+B
+No layoffs and continue to maintain the original development plan
+0 2 0 -30
+DayRange
+0 150
+EVENT 19
+DESCRIPTION
+Our employees are on strike! It seems to be caused by dissatisfaction with our current long working hours
+A
+Appease employees and reduce working hours
+0 0 -10 0
+B
+let alone
+-2 -2 0 0 
+DayRange
+210 600
+EVENT 20
+DESCRIPTION
+Our products have encountered public opinion and public relations problems. How should we solve them?
+A
+Find a professional public relations team to solve it carefully
+0 0 0 -30
+B
+let alone
+-3 -2 0 0 
+DayRange
+0 600
+EVENT 21
+DESCRIPTION
+A large number of people publish bad reviews of our new products on the Internet. Maybe we really don't do well. What should we do?
+A
+Learn from experience and lessons and pay close attention to improving products
+-1 0 0 -20
+B
+Pay someone to delete bad reviews
+-3 -1 0 -5
+DayRange
+0 600
+EVENT 22
+DESCRIPTION
+Our products have some quality problems after being manufactured and can not pass the national compulsory audit. What should we do?
+A
+Bribery reviewer
+-3 0 0 0 
+B
+Postpone the launch and redesign the product
+0 0 0 -40
+DayRange
+0 600
+EVENT 23
+DESCRIPTION
+The angel investors who first invested in us intend to sell our shares, which may cause our assets to evaporate a lot at once
+A
+Talk to investors carefully and let him to sell less shares
+0 -3 0 -40
+B
+let alone
+0 0 0 -80
+DayRange
+0 600
+EVENT 24
+DESCRIPTION
+The talent market is in short supply recently, but we need new employees
+A
+Spend money to increase recruitment
+0 1 0 -30
+B
+Hire acquaintances by relationship
+0 -2 0 -10
+DayRange
+0 600
+EVENT 25
+DESCRIPTION
+A company with bad deeds wants to cooperate with us and advertise our products
+A
+accept
+-2 -2 0 20
+B
+Don't accept it, and promote it on social media that  we rejected them
+1 1 0 0 
+DayRange
+0 600
+EVENT 26
+DESCRIPTION
+Our products have been designed, but some functions are not as powerful as we advertised before
+A
+Direct release
+-2 -2 0 0
+B
+Postpone the release and make some modifications
+-2 0 0 -10
+DayRange
+0 600
