@@ -9,7 +9,7 @@ using namespace std;
 
 const int TotalFactors = 4;
 
-int Count_Events() {
+int Count_Events() {      //count how many events are in the file.
     ifstream fin;
     string line, firstword;
     int c = 0;
@@ -138,7 +138,7 @@ void Load_events(event* el) {
     fin.close();
 }
 
-int Select_event(int day, event * el, int c, bool l) {
+int Select_event(int day, event * el, int c, bool l) {          //randomly select a event id to show on screen. The probability of the occurence of events will change due to days and lucky-factors.
     int n = 0;
     int j1 = 0, j2 = 0;
     for (int i = 0; i < c; i++) {
