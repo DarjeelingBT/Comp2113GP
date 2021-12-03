@@ -19,19 +19,18 @@ Rules of the game:
 
 Pre setting:
 
-The basic rules of this game are similar to the combination of 《life reopening simulator》 and 《Reigns》. At the beginning of the game, you can edit the various attributes of the entrepreneur you control, including family background, connections, and luck. And three different types of companies, financial companies, technology companies and industrial companies.
-
-Players need to allocate limited points to three different attributes, and then choose a company type to start the game.
-
+The basic rules of this game are similar to the combination of 《life reopening simulator》 and 《Reigns》. At the beginning of the game,You can choose up to three talents. Talent has a bonus to the game. No talent in the first game. Talent will be gained at the end of a round of the game.
 
 Game mainstream:
 
-In the game, various events occur in the form of text dialogue every day. Usually, players need to choose "reject" or "execute" to decide how to deal with this event. The game will continue indefinitely until a condition that will end the round is triggered. The purpose of players' play is to play a round of games as long as possible to develop their small start-up companies into large multinational companies in the world.
+In the game, various events occur in the form of text dialogue every turn(One turn is equal to you running the company for 30 days). Usually, players need to choose "reject" or "execute" to decide how to deal with this event. The game will continue indefinitely until a condition that will end the round is triggered. The purpose of players' play is to play a round of games as long as possible to develop their small start-up companies into large multinational companies and eventually go public (for example, listed in Hong Kong stocks or US stocks).
 
 
 In game numerical value:
 
-In a round of game, there are three important values: integrity, connections and monthly profit. And an ultimate value: the company's total assets.
+In a round of game, There are three important indexes, integrity, influence, monthly profit, and one ultimate index: total assets of the company.
+
+待更改
 
 Integrity is the most intuitive impression of the people on a company. If the company often has many negative events and don’t tell honestly, the people will avoid buying the company's products, which will directly lead to the decline of the company's profits.
 
@@ -47,7 +46,7 @@ These values are the core of the game, and you need to maintain the balance of t
 
 Reincarnation of multi round games：
 
-This game encourages players to play in multiple rounds, In other words, you can't win without playing multiple rounds. In a round of game, if the total assets are negative, it will be game over and force the end of the round of game, but you will get a new talent, such as "communication master (increase your initial connection value)". These new talents can be used in your next round of game, making you more likely to win the game.
+This game encourages players to play in multiple rounds, In other words, you can't win without playing multiple rounds. In a round of game, if the total assets are negative, it will be game over and force the end of the round of game, but you will get a new Talent, such as "communication master (increase your initial value of Influence)". These new talents can be used in your next round of game, making you more likely to win the game.
 
 features:
 1.Randomly select the events encountered by players in the main process of the game, and the probability of different events will change according to the preseeting  and players' play.
