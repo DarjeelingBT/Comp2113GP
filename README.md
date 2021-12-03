@@ -19,7 +19,7 @@ Rules of the game:
 
 Pre setting:
 
-The basic rules of this game are similar to the combination of 《life reopening simulator》 and 《Reigns》. At the beginning of the game,You can choose up to three talents. Talent has a bonus to the game. No talent in the first game. Talent will be gained at the end of a round of the game.
+The basic rules of this game are similar to the combination of 《life reopening simulator》 and 《Reigns》. At the beginning of the game,You can choose up to three talents. Talent has a bonus to the game. No talent in the first round of game. Talent will be gained at the end of a round of the game.
 
 Game mainstream:
 
