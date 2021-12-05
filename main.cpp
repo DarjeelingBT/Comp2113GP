@@ -138,7 +138,7 @@ void Load_events(event* el) {  //read in events from file 'events.txt'
     fin.close();
 }
 
-int Select_event(int day, event * el, int c, bool l) {          //randomly select a event id to show on screen. The probability of the occurence of events will change due to days and lucky-factors.
+int Select_event(int day, event * el, int c, bool l) {          //randomly select a event id to show on screen. The probability of the occurrence of events will change due to days and lucky-factors.
     int n = 0;
     int j1 = 0, j2 = 0;
     for (int i = 0; i < c; i++) {
