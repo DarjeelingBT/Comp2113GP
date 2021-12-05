@@ -9,7 +9,7 @@ using namespace std;
 
 const int TotalFactors = 4;
 
-int Count_Events() {      //count how many events are in the file.
+int Count_Events() {      //count how many events are in the file. To determine the size of array used later.
     ifstream fin;
     string line, firstword;
     int c = 0;
@@ -29,14 +29,14 @@ int Count_Events() {      //count how many events are in the file.
 struct talent {
     int id;
     string name;
-    string d;    //description
+    string d;    //description of talents
     int result[TotalFactors];
     bool got_or_not = false;
 };
 
 struct event {
     int id;
-    string d;  //description
+    string d;  //description of events
     string A;
     int A_result[TotalFactors];
     string B;
@@ -44,7 +44,7 @@ struct event {
     int day_range[2];
 };
 
-void Load_talents(talent* tl) {
+void Load_talents(talent* tl) {   //read in talents from the file 'talents.txt'
     ifstream fin;
     string line, word;
     int x = -1, num, value;
@@ -80,7 +80,7 @@ void Load_talents(talent* tl) {
     fin.close();
 }
 
-void Load_events(event* el) {
+void Load_events(event* el) {  //read in events from file 'events.txt'
     ifstream fin;
     string line, word;
     int x = -1, num;
@@ -185,7 +185,7 @@ int Select_event(int day, event * el, int c, bool l) {          //randomly selec
     delete[] newlist;
 }
 
-void quit(int v1[], int v2[], int day, int num, talent* tl) {
+void quit(int v1[], int v2[], int day, int num, talent* tl) {  //to quit the game, save all values into a file 'temp.txt'. It can be reused when opening the game program again.
     ofstream fout;
     fout.open("temp.txt");
     fout << num << " ";
@@ -243,14 +243,14 @@ int main()
     
     
     while (true) {
-        if ((num == 3) && (days == 1)) {
+        if ((num == 3) && (days == 1)) {    //Lucky-talent, which affects the probability of occurrence of events.
             cout << "Congrats! You unlocked a new special talent----Lucky_Man. (Increases the probability of occurence of positive events)" << endl;
             lucky = true;
             for (int i = 0; i < TotalFactors; i++) {
                 values[i] = values1[i];
             }
         }
-        else if (days == 1) {
+        else if (days == 1) {    //select a talents. Notice that talents are stackable. (Once you fail, you can gain a new talent next round.)
             cout << "You can select a 'Talent' which help you run the company." << endl;
             cout << "The talents you select will not be removed until your success." << endl;
             for (int i = 0; i < 8; i++) {
